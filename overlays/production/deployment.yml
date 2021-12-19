@@ -1,0 +1,7 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sammy-app
+  namespace: sammy
+spec:
+  replicas: 3
