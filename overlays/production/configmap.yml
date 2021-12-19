@@ -20,5 +20,6 @@ data:
       </style>
       <body>
         <p>PRODUCTION</p>
+        <p> Validate Kustomize! </p>
       </body>
     </html>
