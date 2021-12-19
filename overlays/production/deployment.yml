@@ -4,4 +4,4 @@ metadata:
   name: sammy-app
   namespace: sammy
 spec:
-  replicas: 3
+  replicas: 2
